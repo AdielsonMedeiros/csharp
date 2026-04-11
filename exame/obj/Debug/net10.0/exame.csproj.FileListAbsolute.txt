@@ -1,0 +1,15 @@
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\obj\Debug\net10.0\exame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\obj\Debug\net10.0\exame.AssemblyInfoInputs.cache
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\obj\Debug\net10.0\exame.AssemblyInfo.cs
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\obj\Debug\net10.0\exame.csproj.CoreCompileInputs.cache
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\obj\Debug\net10.0\exame.sourcelink.json
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\bin\Debug\net10.0\exame.exe
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\bin\Debug\net10.0\exame.deps.json
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\bin\Debug\net10.0\exame.runtimeconfig.json
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\bin\Debug\net10.0\exame.dll
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\bin\Debug\net10.0\exame.pdb
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\obj\Debug\net10.0\exame.dll
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\obj\Debug\net10.0\refint\exame.dll
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\obj\Debug\net10.0\exame.pdb
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\obj\Debug\net10.0\exame.genruntimeconfig.cache
+C:\Users\Adielson Medeiros\Desktop\Web\curso\exame\obj\Debug\net10.0\ref\exame.dll
