@@ -1,7 +1,5 @@
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;   
 using Domain.Interfaces;
 using Domain.Models;
 
@@ -15,19 +13,17 @@ namespace Domain
 
         public void AdicionarAtivo(IInvestimento ativo)
         {
-            
+            _ativos.Add(ativo);
         }
 
         public decimal CalcularSaldoTotal()
         {
-            //i
-            return 0;
+            return _ativos.Sum(a => (a as AtivoBase)?.ValorInvestido ?? 0);
         }
 
         public decimal CalcularLucroTotal()
         {
-           //i
-            return 0;
+           return _ativos.Sum(a => a.CalcularRendimento());
         }
         
     }
