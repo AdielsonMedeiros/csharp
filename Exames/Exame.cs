@@ -8,8 +8,8 @@ namespace exame
     abstract class Exame
     {
 
-        public string nomePaciente;
-        public string tipoSanguineo;
+        public string? nomePaciente;
+        public string? tipoSanguineo;
         public int anoNascimento;
         public double quantidadeMgPorL;
         public double qntDeTriglicerideos;
@@ -18,13 +18,13 @@ namespace exame
         public virtual void cadastrarExame()
         {
             Console.Write("Digite o nome do paciente: ");
-            nomePaciente = Console.ReadLine();
+            nomePaciente = Console.ReadLine()!;
 
             Console.Write("Digite o tipo sanguineo: ");
-            tipoSanguineo = Console.ReadLine();
+            tipoSanguineo = Console.ReadLine()!;
 
             Console.Write("Digite o ano de nascimento: ");
-            anoNascimento = int.Parse(Console.ReadLine());
+            anoNascimento = int.Parse(Console.ReadLine()!);
 
             
         }

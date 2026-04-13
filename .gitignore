@@ -1,0 +1,21 @@
+# .gitignore for .NET
+[Bb]in/
+[Oo]bj/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Visual Studio Code
+.history/
+.ionide/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db

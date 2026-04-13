@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/CalculoRota/">
+    <Project Path="CalculoRota/rota.csproj" />
+  </Folder>
+  <Folder Name="/Exames/">
+    <Project Path="Exames/exame.csproj" />
+  </Folder>
+  <Folder Name="/Exercicios/">
+    <Project Path="Exercicios/exercicios.csproj" />
+  </Folder>
+  <Folder Name="/SistemaFinanceiro/">
+    <Project Path="SistemaFinanceiro/ConsoleApp/ConsoleApp.csproj" />
+    <Project Path="SistemaFinanceiro/Domain/Domain.csproj" />
+  </Folder>
+  <Project Path="Metodos/Metodos.csproj" />
+</Solution>

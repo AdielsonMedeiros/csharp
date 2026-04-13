@@ -23,7 +23,7 @@ namespace exame
             hdl = double.Parse(Console.ReadLine()!);
 
             Console.Write("Digite o risco (B, M, A): ");
-            risco = Console.ReadLine()[0];
+            risco = Console.ReadLine()![0];
 
             
         }
@@ -47,7 +47,6 @@ namespace exame
             {
                 return "HDL = RUIM";
             }
-
             if(risco == 'B' && ldl < 100)
             {
                 return "LDL = 0";
@@ -64,6 +63,7 @@ namespace exame
                 return "LDL RUIM";
             }
             
+
 
 
         
