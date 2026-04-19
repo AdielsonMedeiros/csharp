@@ -1,0 +1,20 @@
+# GSD Planning
+.planning/
+ROADMAP.md
+PROJECT.md
+REQUIREMENTS.md
+STATE.md
+
+# .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+.metadata/
+.vs/
+.vscode/
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
