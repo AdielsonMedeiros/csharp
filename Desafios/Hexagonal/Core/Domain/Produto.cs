@@ -5,17 +5,12 @@ using System;
 
 namespace Core.Domain;
 
-public class Produto
+public class Produto(string nome, int quantidadeInicial)
 {
     public int Id { get; set; }
-    public string Nome { get; set; }
-    public int Quantidade { get; set; }
+    public string Nome { get; set; } = nome;
+    public int Quantidade { get; set; } = quantidadeInicial;
 
-    public Produto(string nome, int quantidadeInicial)
-    {
-        Nome = nome;
-        Quantidade = quantidadeInicial;
-    }
 
 
     public void AdicionarEstoque(int qtd) => Quantidade += qtd;

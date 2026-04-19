@@ -1,6 +1,6 @@
-
-using Core.Domain;
+using System;
 using Microsoft.EntityFrameworkCore;
+using Core.Domain;
 
 namespace Adapters.Driven;
 
